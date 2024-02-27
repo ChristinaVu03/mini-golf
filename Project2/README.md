@@ -1,7 +1,7 @@
 # Author: Christina Vu
 # MonoGame: Mini Golf
 ## Download the zip file and open it on Visual Studio installed on your device.
-## Click on the play button or 
+## Click on the play button or choose Debug -> Start Debugging to build/run the game
 ## Controls
 - Use the mouse to interact with the game.
 - Click on the ball to initiate a hit.
